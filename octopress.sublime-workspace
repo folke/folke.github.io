@@ -1,0 +1,2089 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"churn",
+				"churnData"
+			],
+			[
+				"total",
+				"totalChurnRate"
+			],
+			[
+				"chart",
+				"chartData"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fir",
+				"firstMonth"
+			],
+			[
+				"billing",
+				"billingsChart"
+			],
+			[
+				"invoice",
+				"invoiceYM"
+			],
+			[
+				"billings",
+				"billings_upgrades"
+			],
+			[
+				"mrr",
+				"mrrChart"
+			],
+			[
+				"retur",
+				"returnData"
+			],
+			[
+				"prev",
+				"prevMRR"
+			],
+			[
+				"order",
+				"orders2013"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"invoi",
+				"invoiceYear"
+			],
+			[
+				"month",
+				"monthly"
+			],
+			[
+				"ACC",
+				"ACCESS_SECRET"
+			],
+			[
+				"Utils",
+				"Utils_Date"
+			],
+			[
+				"subsc",
+				"subscription"
+			],
+			[
+				"comp",
+				"companyCustomer"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"Crm_S",
+				"Crm_Subscription"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"sub",
+				"subscriptionList  (function)"
+			],
+			[
+				"subscription",
+				"subscription_id"
+			],
+			[
+				"subscrit",
+				"subscriptionId"
+			],
+			[
+				"check",
+				"checkReturnUrl  (function)"
+			],
+			[
+				"no",
+				"nowrap  (value)"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"TYPE",
+				"TYPE_TEXT"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"update",
+				"updateHistOrders"
+			],
+			[
+				"Crm",
+				"Crm_Subscription"
+			],
+			[
+				"company",
+				"company_customer"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"fac",
+				"facets"
+			],
+			[
+				"op",
+				"optional"
+			],
+			[
+				"select",
+				"selectKey"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"filter",
+				"filterAny"
+			],
+			[
+				"facet",
+				"facetKey"
+			],
+			[
+				"matche",
+				"matchesAny"
+			],
+			[
+				"matches",
+				"matchesAll"
+			],
+			[
+				"_M",
+				"_matchesCondition"
+			],
+			[
+				"_matc",
+				"_matchesCondition"
+			],
+			[
+				"OP",
+				"OP_EQUAL  (constant)"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"sort",
+				"sortNumericByColumn  (function)"
+			],
+			[
+				"get",
+				"getOffset  (function)"
+			],
+			[
+				"Crm_s",
+				"Crm_Search"
+			],
+			[
+				"expires",
+				"expires_date"
+			],
+			[
+				"deals",
+				"deals_active"
+			],
+			[
+				"result",
+				"resultSet"
+			],
+			[
+				"res",
+				"resultset"
+			],
+			[
+				"Utils_",
+				"Utils_Array"
+			],
+			[
+				"topics",
+				"topics_active"
+			],
+			[
+				"topic",
+				"topics_active"
+			],
+			[
+				"c",
+				"groupResultSet  (function)"
+			],
+			[
+				"case",
+				"caseId"
+			],
+			[
+				"gith",
+				"github"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"js",
+				"json_data"
+			],
+			[
+				"http_build",
+				"http_build_query"
+			],
+			[
+				"CLIE",
+				"CLIENT_SECRET"
+			],
+			[
+				"github",
+				"github_issue_id"
+			],
+			[
+				"issue",
+				"issueId"
+			],
+			[
+				"CLIENT",
+				"CLIENT_SECRET"
+			],
+			[
+				"sign",
+				"signatureMethod"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"http_bui",
+				"http_build_query"
+			],
+			[
+				"CON",
+				"CONSUMER_SECRET  (constant)"
+			],
+			[
+				"mast",
+				"masters"
+			],
+			[
+				"master",
+				"master_account_id"
+			],
+			[
+				"accou",
+				"accounts"
+			],
+			[
+				"page",
+				"pageId"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"insta",
+				"installResult"
+			],
+			[
+				"httb",
+				"http_build_query"
+			],
+			[
+				"manage",
+				"managedPage"
+			],
+			[
+				"manag",
+				"managedPage"
+			],
+			[
+				"faceb",
+				"facebookPages"
+			],
+			[
+				"face",
+				"facebookpages"
+			],
+			[
+				"next",
+				"nextRun"
+			],
+			[
+				"thro",
+				"throttle"
+			],
+			[
+				"thr",
+				"throttle"
+			],
+			[
+				"publi",
+				"publishDate"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"date",
+				"dateadd"
+			],
+			[
+				"setu",
+				"setupClicky  (function)"
+			],
+			[
+				"setup",
+				"setupGoogleAnalytics  (function)"
+			],
+			[
+				"bl",
+				"blackhole"
+			],
+			[
+				"secret",
+				"secret2"
+			],
+			[
+				"secre",
+				"secret-input"
+			],
+			[
+				"SearchPR",
+				"SearchProviderTwitter"
+			],
+			[
+				"attr",
+				"attributeValue"
+			],
+			[
+				"att",
+				"attributeValue"
+			],
+			[
+				"likes",
+				"likesNeeded"
+			],
+			[
+				"_like",
+				"_likesNeeded"
+			],
+			[
+				"_co",
+				"_commentsNeeded  (variable)"
+			],
+			[
+				"comm",
+				"commentsNeeded"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"menu",
+				"menuLink"
+			],
+			[
+				"button",
+				"buttonWrapper"
+			],
+			[
+				"transi",
+				"transitionEnd  (variable)"
+			],
+			[
+				"tra",
+				"transitionEnd"
+			],
+			[
+				"stop",
+				"stopPropagation  (function)"
+			],
+			[
+				"render",
+				"renderVisible"
+			],
+			[
+				"ca",
+				"cacheKey"
+			],
+			[
+				"dash",
+				"dashboardId"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"ren",
+				"renderVisible  (function)"
+			],
+			[
+				"auto",
+				"autoHeight"
+			],
+			[
+				"rend",
+				"renderComponent  (function)"
+			],
+			[
+				"componen",
+				"component-content"
+			],
+			[
+				"size",
+				"sizes"
+			],
+			[
+				"dragg",
+				"draggable_options"
+			],
+			[
+				"set",
+				"setupFilter  (function)"
+			],
+			[
+				"widg",
+				"widget"
+			],
+			[
+				"gallery",
+				"gallery-widgets"
+			],
+			[
+				"widget",
+				"widget-component"
+			],
+			[
+				"return",
+				"returnAjax"
+			],
+			[
+				"append",
+				"appendTo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 3069,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/base/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 4743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 79 files for \"sidebar\" (regex)\n\n/Users/folke/projects/octopress/.themes/classic/source/index.html:\n   21    </div>\n   22  </div>\n   23: <aside class=\"sidebar\">\n   24    {% if site.blog_index_asides.size %}\n   25      {% include_array blog_index_asides %}\n\n/Users/folke/projects/octopress/.themes/classic/source/_layouts/default.html:\n    1  {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}\n    2  {% include head.html %}\n    3: <body {% if page.body_id %} id=\"{{ page.body_id }}\" {% endif %} {% if page.sidebar == false %} class=\"no-sidebar\" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class=\"collapse-sidebar sidebar-footer\" {% endif %}>\n    4    <header role=\"banner\">{% include header.html %}</header>\n    5    <nav role=\"navigation\">{% include navigation.html %}</nav>\n\n/Users/folke/projects/octopress/.themes/classic/source/_layouts/page.html:\n   32  {% endif %}\n   33  </div>\n   34: {% unless page.sidebar == false %}\n   35: <aside class=\"sidebar\">\n   36    {% if site.page_asides.size %}\n   37      {% include_array page_asides %}\n\n/Users/folke/projects/octopress/.themes/classic/source/_layouts/post.html:\n   33  {% endif %}\n   34  </div>\n   35: {% unless page.sidebar == false %}\n   36: <aside class=\"sidebar\">\n   37    {% if site.post_asides.size %}\n   38      {% include_array post_asides %}\n\n/Users/folke/projects/octopress/_deploy/index.html:\n  159    </div>\n  160  </div>\n  161: <aside class=\"sidebar\">\n  162    \n  163      <section>\n\n/Users/folke/projects/octopress/_deploy/blog/2013/01/17/this-is-a-test/index.html:\n  165  </div>\n  166  \n  167: <aside class=\"sidebar\">\n  168    \n  169      <section>\n\n/Users/folke/projects/octopress/_deploy/blog/2013/01/18/a-practical-guide-on-measuring-saas-metrics/index.html:\n  169  </div>\n  170  \n  171: <aside class=\"sidebar\">\n  172    \n  173      <section>\n\n/Users/folke/projects/octopress/_deploy/blog/archives/index.html:\n  121  </div>\n  122  \n  123: <aside class=\"sidebar\">\n  124    \n  125      <section>\n\n/Users/folke/projects/octopress/_deploy/blog/categories/saas-metrics/index.html:\n  109  </div>\n  110  \n  111: <aside class=\"sidebar\">\n  112    \n  113      <section>\n\n/Users/folke/projects/octopress/public/index.html:\n  157    </div>\n  158  </div>\n  159: <aside class=\"sidebar\">\n  160    \n  161      <section>\n\n/Users/folke/projects/octopress/public/blog/2013/01/18/a-practical-guide-on-measuring-saas-metrics/index.html:\n  163  </div>\n  164  \n  165: <aside class=\"sidebar\">\n  166    \n  167      <section>\n\n/Users/folke/projects/octopress/public/blog/2013/01/18/this-is-a-test/index.html:\n  163  </div>\n  164  \n  165: <aside class=\"sidebar\">\n  166    \n  167      <section>\n\n/Users/folke/projects/octopress/public/blog/archives/index.html:\n  117  </div>\n  118  \n  119: <aside class=\"sidebar\">\n  120    \n  121      <section>\n\n/Users/folke/projects/octopress/source/index.html:\n   21    </div>\n   22  </div>\n   23: <aside class=\"sidebar\">\n   24    {% if site.blog_index_asides.size %}\n   25      {% include_array blog_index_asides %}\n\n/Users/folke/projects/octopress/source/_layouts/default.html:\n    1  {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}\n    2  {% include head.html %}\n    3: <body {% if page.body_id %} id=\"{{ page.body_id }}\" {% endif %} {% if page.sidebar == false %} class=\"no-sidebar\" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class=\"collapse-sidebar sidebar-footer\" {% endif %}>\n    4    <!--header role=\"banner\">{% include header.html %}</header-->\n    5    <nav role=\"navigation\">{% include navigation.html %}</nav>\n\n/Users/folke/projects/octopress/source/_layouts/page.html:\n   32  {% endif %}\n   33  </div>\n   34: {% unless page.sidebar == false %}\n   35: <aside class=\"sidebar\">\n   36    {% if site.page_asides.size %}\n   37      {% include_array page_asides %}\n\n/Users/folke/projects/octopress/source/_layouts/post.html:\n   33  {% endif %}\n   34  </div>\n   35: {% unless page.sidebar == false %}\n   36: <aside class=\"sidebar\">\n   37    {% if site.post_asides.size %}\n   38      {% include_array post_asides %}\n\n31 matches across 17 files\n",
+			"settings":
+			{
+				"buffer_size": 4144,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Engagor Staging",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Staged"
+			],
+			[
+				"git",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git gi",
+				"Git: Gitk"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git gr",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"subl",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 263.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/folke/projects/octopress/source/_layouts/page.html",
+		"/Users/folke/projects/octopress/.themes/classic/source/_layouts/page.html",
+		"/Users/folke/projects/octopress/source/_layouts/default.html",
+		"/Users/folke/projects/octopress/.themes/classic/sass/base/_layout.scss",
+		"/Users/folke/projects/octopress/source/_includes/social.html",
+		"/Users/folke/projects/octopress/.themes/fabric/README.md",
+		"/Users/folke/projects/engagor/app/protected/class/HighChart.php",
+		"/Users/folke/projects/engagor/app/protected/class/Form.php",
+		"/Users/folke/projects/engagor/app/protected/class/saas/Metrics2.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/SaasController.php",
+		"/Users/folke/projects/engagor/app/protected/class/saas/Data.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/CrmController.php",
+		"/Users/folke/projects/engagor/app/protected/config/routes.conf.php",
+		"/Users/folke/projects/engagor/app/protected/layout/admin.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin.menu.html",
+		"/Users/folke/projects/engagor/app/protected/plugin/TemplateTag.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/insights.data.html",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/InsightsController.php",
+		"/Users/folke/projects/engagor/api/classes/class.config.php",
+		"/Users/folke/projects/engagor/app/protected/class/Cache.php",
+		"/Users/folke/projects/engagor/dooframework/cache/DooFileCache.php",
+		"/Users/folke/projects/engagor/dooframework/cache/DooMemCache.php",
+		"/Users/folke/projects/engagor/api/classes/class.firehosesearch.php",
+		"/Users/folke/projects/engagor/app/protected/class/TwitterStreamingParams.php",
+		"/Users/folke/projects/engagor/api/scripts/twitterStreamingParams.php",
+		"/Users/folke/projects/engagor/api/scripts/topicMatcherDatabase.php",
+		"/Users/folke/projects/engagor/api/scripts/topicMatcherMaster.php",
+		"/Users/folke/projects/engagor/app/protected/class/topic/matcher/Manager.php",
+		"/Users/folke/projects/engagor/app/protected/class/topic/matcher/Database.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/TestController.php",
+		"/Users/folke/projects/engagor/app/global/css/showcase.css",
+		"/Users/folke/projects/engagor/api/scripts/migration.php",
+		"/Users/folke/projects/engagor/app/protected/view/form.html",
+		"/Users/folke/projects/engagor/app/protected/layout/insights.html",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Issues.php",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Date.php",
+		"/Users/folke/projects/engagor/app/protected/class/Export.php",
+		"/Users/folke/projects/engagor/app/protected/class/utils/DateIterator.php",
+		"/Users/folke/projects/engagor/app/global/js/engagor.chat.js",
+		"/Users/folke/projects/engagor/app/protected/view/includes/header.standard.html",
+		"/Users/folke/projects/engagor/app/global/css/pictonic/css/pictonic.css",
+		"/Users/folke/projects/engagor/app/protected/layout/inbox.html",
+		"/Users/folke/projects/engagor/app/protected/view/inbox/mention.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.js",
+		"/Users/folke/projects/engagor/app/global/sass/_app.scss",
+		"/Users/folke/projects/engagor/app/protected/view/debug.html",
+		"/Users/folke/projects/engagor/app/protected/view/includes/footer.core.config.html",
+		"/Users/folke/projects/engagor/app/protected/class/firehose/Twitter.php",
+		"/Users/folke/projects/engagor/app/protected/controller/CoreController.php",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Company.php",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Subscription.php",
+		"/Users/folke/projects/engagor/api/classes/class.debug.php",
+		"/Users/folke/projects/engagor/app/global/js/engagor.chart.js",
+		"/Users/folke/projects/engagor/api/classes/class.awsapi.php",
+		"/Users/folke/projects/engagor/app/global/js/head.js",
+		"/Users/folke/projects/engagor/app/global/js/engagor.app.js",
+		"/Users/folke/projects/engagor/app/protected/view/query.media.html",
+		"/Users/folke/projects/engagor/app/protected/class/Lists.php",
+		"/Users/folke/projects/engagor/api/classes/class.aws.php",
+		"/Users/folke/projects/engagor/app/protected/class/mentions/Folders.php",
+		"/Users/folke/projects/engagor/app/protected/controller/settings/InboxController.php",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Search.php",
+		"/Users/folke/projects/engagor/app/protected/class/processor/FastData.php",
+		"/Users/folke/projects/engagor/app/protected/class/processor/Stats.php",
+		"/Users/folke/projects/engagor/api/classes/class.mentionuniqueness.php",
+		"/Users/folke/projects/engagor/lib/php-amqplib/amqp.inc",
+		"/Users/folke/projects/engagor/api/classes/class.rabbitstream.php",
+		"/Users/folke/projects/engagor/app/protected/class/StopWords.php",
+		"/Users/folke/projects/engagor/app/protected/class/stream/Mentions.php",
+		"/Users/folke/projects/engagor/api/classes/class.firehose.php",
+		"/Users/folke/projects/engagor/api/classes/class.mentionsdb.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.subscription.list.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.subscription.details.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.subscription.editor.html",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Array.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/insights.subscriptions.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.order.list.html",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Attributes.php",
+		"/Users/folke/projects/engagor/app/protected/class/saas/Saasy.php",
+		"/Users/folke/projects/engagor/engagor.sublime-project",
+		"/Users/folke/projects/engagor/api/scripts/syncStats.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.deal.list.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.deal.editor.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.activity.editor.html",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Activity.php",
+		"/Users/folke/projects/engagor/app/protected/class/saas/Metrics.php",
+		"/Users/folke/projects/engagor/app/global/js/bootstrap-datepicker/js/bootstrap-datepicker.js",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.issues.list.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.overview.html",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Json.php",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Sanitizer.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.activity.list.html",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.activity.html",
+		"/Users/folke/projects/engagor/app/protected/controller/ErrorController.php",
+		"/Users/folke/projects/engagor/app/global/js/engagor.messages.js",
+		"/Users/folke/projects/engagor/app/protected/layout/crm.html",
+		"/Users/folke/projects/engagor/api/classes/class.db.php",
+		"/Users/folke/projects/engagor/app/protected/class/LocaleUtil.php",
+		"/Users/folke/projects/engagor/app/protected/class/utils/Continent.php",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Deal.php",
+		"/Users/folke/projects/engagor/app/protected/class/crm/Crm_Attributes.php",
+		"/Users/folke/projects/engagor/app/protected/class/accounts/Plan.php",
+		"/Users/folke/projects/engagor/app/protected/view/admin/saas.invoice.html",
+		"/Users/folke/projects/engagor/api/scripts/elasticFixMissing.php",
+		"/Users/folke/projects/engagor/api/scripts/bizBot.php",
+		"/Users/folke/projects/engagor/api/classes/class.bizbot.php",
+		"/Users/folke/projects/engagor/app/protected/class/Gmail.php",
+		"/Users/folke/projects/engagor/app/protected/view/settings/plan.trial.html",
+		"/Users/folke/projects/engagor/app/global/js/engagor.sidebar.js",
+		"/Users/folke/projects/engagor/app/protected/view/admin/crm.subscription.mini.html",
+		"/Users/folke/projects/engagor/app/protected/class/Dot.php",
+		"/Users/folke/projects/engagor/app/protected/class/Pager.php",
+		"/Users/folke/projects/engagor/app/protected/view/connectedservices.publish.html",
+		"/Users/folke/projects/engagor/api/classes/class.searchprovidertwitter.php",
+		"/Users/folke/projects/engagor/api/classes/class.rabbitprocessor.php",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/edit.service.html",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/edit.include.html",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query.edit.html",
+		"/Users/folke/projects/engagor/app/protected/controller/settings/QueryController.php",
+		"/Users/folke/projects/engagor/app/protected/controller/users/UserController.php",
+		"/Users/folke/projects/engagor/app/protected/view/settings/query/keywordsearch.html",
+		"/Users/folke/projects/engagor/app/protected/class/Desk.php",
+		"/Users/folke/projects/engagor/app/protected/class/GitHub.php",
+		"/Users/folke/projects/engagor/app/protected/controller/admin/DeskController.php",
+		"/Users/folke/projects/engagor/app/protected/class/topic/Matcher.php",
+		"/Users/folke/projects/engagor/app/protected/class/topic/matcher/Searcher.php",
+		"/Users/folke/projects/engagor/api/classes/class.topicmatcher.php",
+		"/Users/folke/projects/engagor/app/protected/view/filter.savedfilters.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"*.html",
+			"*.scss",
+			"*",
+			"*.php",
+			"*",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.css",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.html",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.php",
+			"*.js",
+			"*",
+			"*.php",
+			"*.html",
+			"*.php",
+			"*",
+			"*.html",
+			"*.*",
+			"*.js",
+			"*.html",
+			"*.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar",
+			"margin-right",
+			"sidebar-width",
+			"toggle-sidebar",
+			"social",
+			"_matcher2",
+			"chartData['churn_rate_total']['series']",
+			"insights",
+			"process",
+			"invoiced",
+			"_new",
+			"invoiced",
+			"revenue",
+			"new",
+			"customers_prior_sum",
+			"churn_cancellation",
+			"this->get",
+			"sep",
+			"insights.data",
+			"Form",
+			"partner",
+			"icon-ho",
+			"icon-he",
+			"icon",
+			"saas",
+			"->invoices",
+			"invoices",
+			"Engagor.Ajax.abort",
+			"id",
+			"print",
+			"renderUrlPdf",
+			"dialog",
+			"app-sidepane",
+			"sidep",
+			"hasResult",
+			"formatDateWithUserTimeZone",
+			"Saas_Saasy",
+			"syncInvoices",
+			"Saas_Saasy",
+			"Saasy",
+			"lifetime",
+			"editInvoi",
+			"subscription_order",
+			"Saas_Saasy",
+			"activity",
+			"company_id",
+			"company_customer_id",
+			"getByName",
+			"company_consumer_id",
+			"contact",
+			"company_consumer_id",
+			"company_con",
+			"company_consumer_id",
+			"saasy",
+			"issues",
+			"Saas_Metrics2",
+			"admindate",
+			"_detectGaps",
+			"payment",
+			"method",
+			"admincomplete.*",
+			"admincomplete.*country",
+			"admincomplete",
+			"comple",
+			"dealList",
+			"admins",
+			"day",
+			"account.*expired",
+			"load.*account.*expired",
+			"overlay.*account.*expired",
+			"account.*expired",
+			"expi",
+			"trial",
+			"facets",
+			"['\"]yy-mm-dd",
+			"users",
+			"sort",
+			"active",
+			"select.*webkit",
+			"webkit-appea",
+			"menulist",
+			"GREATER",
+			"\")",
+			"$query->where(\"$stageSql",
+			"filter",
+			"self::",
+			"getStage",
+			"\")\n",
+			"plan",
+			"expires",
+			"topics",
+			"$row['account_id']",
+			"date_end",
+			"private",
+			"reply",
+			"checked",
+			"basic_consume",
+			"timeout",
+			"executeBa",
+			"executeBatch",
+			"FIREHOSE_CAPACITY",
+			"interact",
+			"console",
+			"query_keywordsearch",
+			"tavs",
+			"KeywordSearch",
+			"breadcrumb",
+			"keywordsearch",
+			"available",
+			"The services below define your topic and what is monitored by Engagor.",
+			"advanced",
+			"tabs",
+			"keywordsea",
+			"new oauth",
+			"http_method",
+			"sign_request",
+			"OAuthSignatureMethod",
+			"OAuthSignatureMethod_HMAC_SHA1",
+			"HMAC",
+			"OAuthConsumer",
+			"Services_Facebook_ConversationsProcessor",
+			"track",
+			"Services_Facebook_ConversationsProcessor",
+			"conversatio(?!n)",
+			"conversatio(?!e)",
+			"conversatio(?!n)",
+			"conversatio",
+			"Services_Facebook_FeedProcessor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"INPUT_SIZE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 3069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1842,
+								1842
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": false,
+								"white": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/base/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 4743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3950,
+								3950
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": false,
+								"white": false,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1783.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 4144,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										160,
+										167
+									],
+									[
+										532,
+										539
+									],
+									[
+										562,
+										569
+									],
+									[
+										594,
+										601
+									],
+									[
+										624,
+										631
+									],
+									[
+										665,
+										672
+									],
+									[
+										673,
+										680
+									],
+									[
+										967,
+										974
+									],
+									[
+										1008,
+										1015
+									],
+									[
+										1232,
+										1239
+									],
+									[
+										1273,
+										1280
+									],
+									[
+										1470,
+										1477
+									],
+									[
+										1638,
+										1645
+									],
+									[
+										1835,
+										1842
+									],
+									[
+										1986,
+										1993
+									],
+									[
+										2152,
+										2159
+									],
+									[
+										2296,
+										2303
+									],
+									[
+										2492,
+										2499
+									],
+									[
+										2659,
+										2666
+									],
+									[
+										2809,
+										2816
+									],
+									[
+										2953,
+										2960
+									],
+									[
+										3309,
+										3316
+									],
+									[
+										3339,
+										3346
+									],
+									[
+										3371,
+										3378
+									],
+									[
+										3401,
+										3408
+									],
+									[
+										3442,
+										3449
+									],
+									[
+										3450,
+										3457
+									],
+									[
+										3733,
+										3740
+									],
+									[
+										3774,
+										3781
+									],
+									[
+										3982,
+										3989
+									],
+									[
+										4023,
+										4030
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
+	"output.find_results":
+	{
+		"height": 96.0
+	},
+	"output.git":
+	{
+		"height": 96.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"layouthtml",
+				"source/_layouts/default.html"
+			],
+			[
+				"_",
+				"_config.yml"
+			],
+			[
+				"social",
+				"source/_includes/social.html"
+			],
+			[
+				"firehosetw",
+				"app/protected/class/firehose/Twitter.php"
+			],
+			[
+				"topicmatcherda",
+				"api/scripts/topicMatcherDatabase.php"
+			],
+			[
+				"topi",
+				"api/scripts/topicMatcherMaster.php"
+			],
+			[
+				"adminte",
+				"app/protected/controller/admin/TestController.php"
+			],
+			[
+				"twitter",
+				"api/scripts/twitterStreamingParams.php"
+			],
+			[
+				"topicmatcherm",
+				"api/scripts/topicMatcherMaster.php"
+			],
+			[
+				"topic",
+				"api/scripts/topicMatcherDatabase.php"
+			],
+			[
+				"topicma",
+				"api/scripts/topicMatcherDatabase.php"
+			],
+			[
+				"doomem",
+				"dooframework/cache/DooMemCache.php"
+			],
+			[
+				"cache",
+				"app/protected/class/Cache.php"
+			],
+			[
+				"class.confi",
+				"api/classes/class.config.php"
+			],
+			[
+				"admintest",
+				"app/protected/controller/admin/TestController.php"
+			],
+			[
+				"scss",
+				"app/global/css/showcase.css"
+			],
+			[
+				"insightda",
+				"app/protected/view/admin/insights.data.html"
+			],
+			[
+				"templ",
+				"app/protected/plugin/TemplateTag.php"
+			],
+			[
+				"crmcon",
+				"app/protected/controller/admin/CrmController.php"
+			],
+			[
+				"saasdata",
+				"app/protected/class/saas/Data.php"
+			],
+			[
+				"routes",
+				"app/protected/config/routes.conf.php"
+			],
+			[
+				"adminhtml",
+				"app/protected/view/admin.menu.html"
+			],
+			[
+				"highch",
+				"app/protected/class/HighChart.php"
+			],
+			[
+				"saascontr",
+				"app/protected/controller/admin/SaasController.php"
+			],
+			[
+				"saasmetr",
+				"app/protected/class/saas/Metrics2.php"
+			],
+			[
+				"formhtml",
+				"app/protected/view/form.html"
+			],
+			[
+				"insightsda",
+				"app/protected/view/admin/insights.data.html"
+			],
+			[
+				"form",
+				"app/protected/class/Form.php"
+			],
+			[
+				"insightsdata",
+				"app/protected/view/admin/insights.data.html"
+			],
+			[
+				"insightshtml",
+				"app/protected/layout/insights.html"
+			],
+			[
+				"insightsc",
+				"app/protected/controller/admin/InsightsController.php"
+			],
+			[
+				"header",
+				"app/protected/view/includes/header.standard.html"
+			],
+			[
+				"picto",
+				"app/global/css/pictonic/css/pictonic.css"
+			],
+			[
+				"pictonic",
+				"app/global/css/pictonic/css/pictonic.css"
+			],
+			[
+				"class.config",
+				"api/classes/class.config.php"
+			],
+			[
+				"issues",
+				"app/protected/class/crm/Issues.php"
+			],
+			[
+				"adminsaasc",
+				"app/protected/controller/admin/SaasController.php"
+			],
+			[
+				"utilsda",
+				"app/protected/class/utils/Date.php"
+			],
+			[
+				"saasmetri",
+				"app/protected/class/saas/Metrics2.php"
+			],
+			[
+				"headjs",
+				"app/global/js/head.js"
+			],
+			[
+				"awsai",
+				"api/classes/class.awsapi.php"
+			],
+			[
+				"chartjs",
+				"app/global/js/engagor.chart.js"
+			],
+			[
+				"highchart",
+				"app/protected/class/HighChart.php"
+			],
+			[
+				"crmcompa",
+				"app/protected/class/crm/Company.php"
+			],
+			[
+				"crmsubsc",
+				"app/protected/class/crm/Subscription.php"
+			],
+			[
+				"class.debug",
+				"api/classes/class.debug.php"
+			],
+			[
+				"expo",
+				"app/protected/class/Export.php"
+			],
+			[
+				"list",
+				"app/protected/class/Lists.php"
+			],
+			[
+				"footer",
+				"app/protected/view/includes/footer.core.config.html"
+			],
+			[
+				"debughtml",
+				"app/protected/view/debug.html"
+			],
+			[
+				"engagorjs",
+				"app/global/js/engagor.js"
+			],
+			[
+				"mention",
+				"app/protected/view/inbox/mention.html"
+			],
+			[
+				"appjs",
+				"app/global/js/engagor.app.js"
+			],
+			[
+				"appscss",
+				"app/global/sass/_app.scss"
+			],
+			[
+				"chatjs",
+				"app/global/js/engagor.chat.js"
+			],
+			[
+				"inbox",
+				"app/protected/layout/inbox.html"
+			],
+			[
+				"stopwo",
+				"app/protected/class/StopWords.php"
+			],
+			[
+				"mentionhtml",
+				"app/protected/view/inbox/mention.html"
+			],
+			[
+				"rabbitstr",
+				"api/classes/class.rabbitstream.php"
+			],
+			[
+				"amqp",
+				"lib/php-amqplib/amqp.inc"
+			],
+			[
+				"processorstat",
+				"app/protected/class/processor/Stats.php"
+			],
+			[
+				"firehosetwitter",
+				"app/protected/class/firehose/Twitter.php"
+			],
+			[
+				"stream",
+				"app/protected/class/stream/Mentions.php"
+			],
+			[
+				"processor",
+				"app/protected/class/processor/FastData.php"
+			],
+			[
+				"search",
+				"app/protected/class/crm/Search.php"
+			],
+			[
+				"utilsdate",
+				"app/protected/class/utils/Date.php"
+			],
+			[
+				"utilsdat",
+				"app/protected/class/utils/Date.php"
+			],
+			[
+				"orderlist",
+				"app/protected/view/admin/crm.order.list.html"
+			],
+			[
+				"subscription",
+				"app/protected/view/admin/insights.subscriptions.html"
+			],
+			[
+				"insightc",
+				"app/protected/controller/admin/InsightsController.php"
+			],
+			[
+				"metrics",
+				"app/protected/class/saas/Metrics2.php"
+			],
+			[
+				"saasy",
+				"app/protected/class/saas/Saasy.php"
+			],
+			[
+				"attriute",
+				"app/protected/class/crm/Attributes.php"
+			],
+			[
+				"subscriped",
+				"app/protected/view/admin/crm.subscription.editor.html"
+			],
+			[
+				"subscrdetail",
+				"app/protected/view/admin/crm.subscription.details.html"
+			],
+			[
+				"subscripli",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"saascon",
+				"app/protected/controller/admin/SaasController.php"
+			],
+			[
+				"crmsear",
+				"app/protected/class/crm/Search.php"
+			],
+			[
+				"activitye",
+				"app/protected/view/admin/crm.activity.editor.html"
+			],
+			[
+				"subscriptl",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"dealedit",
+				"app/protected/view/admin/crm.deal.editor.html"
+			],
+			[
+				"dealli",
+				"app/protected/view/admin/crm.deal.list.html"
+			],
+			[
+				"adminsaas",
+				"app/protected/controller/admin/SaasController.php"
+			],
+			[
+				"saasmer",
+				"app/protected/class/saas/Metrics.php"
+			],
+			[
+				"orderli",
+				"app/protected/view/admin/crm.order.list.html"
+			],
+			[
+				"crmacti",
+				"app/protected/view/admin/crm.activity.html"
+			],
+			[
+				"crmsubli",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"crmo",
+				"app/protected/view/admin/crm.overview.html"
+			],
+			[
+				"issueshtml",
+				"app/protected/view/admin/crm.issues.list.html"
+			],
+			[
+				"subsclis",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"utildate",
+				"app/protected/class/utils/Date.php"
+			],
+			[
+				"datepicker",
+				"app/global/js/bootstrap-datepicker/js/bootstrap-datepicker.js"
+			],
+			[
+				"crmsea",
+				"app/protected/class/crm/Search.php"
+			],
+			[
+				"subscriptli",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"crmissu",
+				"app/protected/class/crm/Issues.php"
+			],
+			[
+				"corcon",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"utilconti",
+				"app/protected/class/utils/Continent.php"
+			],
+			[
+				"localeut",
+				"app/protected/class/LocaleUtil.php"
+			],
+			[
+				"crm",
+				"app/protected/layout/crm.html"
+			],
+			[
+				"messagejs",
+				"app/global/js/engagor.messages.js"
+			],
+			[
+				"subscripdetail",
+				"app/protected/view/admin/crm.subscription.details.html"
+			],
+			[
+				"crmdeal",
+				"app/protected/class/crm/Deal.php"
+			],
+			[
+				"corecon",
+				"app/protected/controller/CoreController.php"
+			],
+			[
+				"crmcontr",
+				"app/protected/controller/admin/CrmController.php"
+			],
+			[
+				"crmsearchphp",
+				"app/protected/class/crm/Search.php"
+			],
+			[
+				"gmail",
+				"app/protected/class/Gmail.php"
+			],
+			[
+				"botphp",
+				"api/scripts/bizBot.php"
+			],
+			[
+				"fixm",
+				"api/scripts/elasticFixMissing.php"
+			],
+			[
+				"engagorj",
+				"app/global/js/engagor.js"
+			],
+			[
+				"trial",
+				"app/protected/view/settings/plan.trial.html"
+			],
+			[
+				"orderlis",
+				"app/protected/view/admin/crm.order.list.html"
+			],
+			[
+				"invoicehtml",
+				"app/protected/view/admin/saas.invoice.html"
+			],
+			[
+				"orderhtml",
+				"app/protected/view/admin/crm.order.list.html"
+			],
+			[
+				"plan",
+				"app/protected/class/accounts/Plan.php"
+			],
+			[
+				"sidebar",
+				"app/global/js/engagor.sidebar.js"
+			],
+			[
+				"layutcrm",
+				"app/protected/layout/crm.html"
+			],
+			[
+				"subscriphtml",
+				"app/protected/view/admin/crm.subscription.editor.html"
+			],
+			[
+				"pager",
+				"app/protected/class/Pager.php"
+			],
+			[
+				"subscriptionmi",
+				"app/protected/view/admin/crm.subscription.mini.html"
+			],
+			[
+				"utildat",
+				"app/protected/class/utils/Date.php"
+			],
+			[
+				"publishhtml",
+				"app/protected/view/connectedservices.publish.html"
+			],
+			[
+				"subscriptioni",
+				"app/protected/view/admin/crm.subscription.list.html"
+			],
+			[
+				"streamme",
+				"app/protected/class/stream/Mentions.php"
+			],
+			[
+				"rabbitproc",
+				"api/classes/class.rabbitprocessor.php"
+			],
+			[
+				"searchprovidertw",
+				"api/classes/class.searchprovidertwitter.php"
+			],
+			[
+				"rabbitstrea",
+				"api/classes/class.rabbitstream.php"
+			],
+			[
+				"topicsearcher",
+				"app/protected/class/topic/matcher/Searcher.php"
+			],
+			[
+				"firehose",
+				"api/classes/class.firehose.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
