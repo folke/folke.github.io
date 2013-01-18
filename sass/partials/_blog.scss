@@ -1,4 +1,5 @@
 article {
+  position: relative;
   padding-top: 1em;
   a { @extend .force-wrap; }
   header {
@@ -90,6 +91,18 @@ article + article {
 #content .blog-index {
   padding: { top: 0; bottom: 0; }
   article { padding-top: 2em; }
+  article:before {
+    content: "";
+    border: 1px solid #ccc;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -11px;
+    left: -11px;
+    background: #fafafa;
+    display: block;
+    border-radius: 90px;
+  }
   article header { background: none; padding-bottom: 0; }
   article h1 {
     font-size: 2.2em;
