@@ -3,7 +3,9 @@ layout: post
 title: "How to survive a Social Media Crisis"
 date: 2013-02-26 17:05
 comments: true
-categories: 
+categories:
+- Social Media
+- Presentations
 ---
 
 Presentation I did at the "Studiedag voor de woordvoerder" today in Brussels.
