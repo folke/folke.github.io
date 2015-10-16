@@ -8,9 +8,9 @@ banner: /assets/images/banners/start-small.jpeg
 
 Belgium is a tiny country in Europe. Really tiny. With a population of only 10 million people, it’s just a tad bigger than the entire population of New York City.
 
-{% blockquote @BohoBri https://twitter.com/BohoBri/status/380760562876944384 %}
-Is Belgium a country or a city?
-{% endblockquote %}
+{% card https://twitter.com/BohoBri/status/380760562876944384 %}
+    @BohoBri: Is Belgium a country or a city?
+{% endcard %}
 
 Belgium is also the country I grew up in, and it’s where I’ve founded my first startup [Engagor](https://engagor.com) 3 years ago.
 
