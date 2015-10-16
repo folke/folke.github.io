@@ -10,14 +10,14 @@ author: Folke Lemaitre
 author_title: Tech Entrepreneur
 avatar: assets/images/avatar.jpg
 location: San Francisco
-follow: https://github.com/folke/
+follow: https://twitter.com/folke/
 language: en
 timezone:
 since: 2015 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://folkelemaitre.com
+url: http://folke.io
 root: /
 permalink: blog/:title/
 permalink_defaults:
