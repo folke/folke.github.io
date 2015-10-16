@@ -3,9 +3,9 @@
   <title><![CDATA[Folke Lemaitre]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://folkelemaitre.com/"/>
-  <updated>2015-10-15T22:54:11.000Z</updated>
-  <id>http://folkelemaitre.com/</id>
+  <link href="http://folke.io/"/>
+  <updated>2015-10-16T00:47:52.000Z</updated>
+  <id>http://folke.io/</id>
   
   <author>
     <name><![CDATA[Folke Lemaitre]]></name>
@@ -16,13 +16,12 @@
   
   <entry>
     <title><![CDATA[Start Small, Think Big, Scale Fast, Go Global]]></title>
-    <link href="http://folkelemaitre.com/blog/start-small/"/>
-    <id>http://folkelemaitre.com/blog/start-small/</id>
+    <link href="http://folke.io/blog/start-small/"/>
+    <id>http://folke.io/blog/start-small/</id>
     <published>2014-06-18T22:36:35.000Z</published>
-    <updated>2015-10-15T22:54:11.000Z</updated>
+    <updated>2015-10-16T00:47:52.000Z</updated>
     <content type="html"><![CDATA[<p>Belgium is a tiny country in Europe. Really tiny. With a population of only 10 million people, it’s just a tad bigger than the entire population of New York City.</p>
-<blockquote><p>Is Belgium a country or a city?</p>
-<footer><strong>@BohoBri</strong><cite><a href="https://twitter.com/BohoBri/status/380760562876944384" target="_blank" rel="external">twitter.com/BohoBri/status/380760562876944384</a></cite></footer></blockquote>
+<a class="embedly-card" href="https://twitter.com/BohoBri/status/380760562876944384" target="_blank" rel="external">@BohoBri: Is Belgium a country or a city?</a>
 <p>Belgium is also the country I grew up in, and it’s where I’ve founded my first startup <a href="https://engagor.com" target="_blank" rel="external">Engagor</a> 3 years ago.</p>
 <h1 id="Start_Small">Start Small</h1><p>Suppose you want to climb the Mount Everest. Immediately getting on a plane, and start climbing, will most likely end in a failure or worse. You better make sure you have a team in place, developed the skills you will need, be aware of the environment and have the tools to make it all happen.</p>
 <p>Starting your own company is no different. At the start you will be small, so start small. Focus on a small market segment that represents your most ideal customer. Validate your business model, iterate on your product.</p>
@@ -61,16 +60,16 @@
     <![CDATA[<p>Belgium is a tiny country in Europe. Really tiny. With a population of only 10 million people, it’s just a tad bigger than the entire pop]]>
     </summary>
     
-      <category term="Belgium" scheme="http://folkelemaitre.com/tags/Belgium/"/>
+      <category term="Belgium" scheme="http://folke.io/tags/Belgium/"/>
     
-      <category term="Startups" scheme="http://folkelemaitre.com/tags/Startups/"/>
+      <category term="Startups" scheme="http://folke.io/tags/Startups/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Random Thoughts on Belgium and Innovation]]></title>
-    <link href="http://folkelemaitre.com/blog/random-thoughts/"/>
-    <id>http://folkelemaitre.com/blog/random-thoughts/</id>
+    <link href="http://folke.io/blog/random-thoughts/"/>
+    <id>http://folke.io/blog/random-thoughts/</id>
     <published>2014-03-06T22:56:12.000Z</published>
     <updated>2015-10-15T22:54:14.000Z</updated>
     <content type="html"><![CDATA[<p>I’ve been reading a lot lately on how Belgium is killing innovation in multiple ways. Especially the recent examples on Uber, 4G and Apple. However over the last couple of years there have been multiple initiatives that are really doing a great job in helping startups further building out their business.</p>
@@ -89,9 +88,9 @@
     <![CDATA[<p>I’ve been reading a lot lately on how Belgium is killing innovation in multiple ways. Especially the recent examples on Uber, 4G and Appl]]>
     </summary>
     
-      <category term="Belgium" scheme="http://folkelemaitre.com/tags/Belgium/"/>
+      <category term="Belgium" scheme="http://folke.io/tags/Belgium/"/>
     
-      <category term="Startups" scheme="http://folkelemaitre.com/tags/Startups/"/>
+      <category term="Startups" scheme="http://folke.io/tags/Startups/"/>
     
   </entry>
   
